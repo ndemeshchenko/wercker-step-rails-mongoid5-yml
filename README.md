@@ -12,7 +12,7 @@ services:
   - mongo
 build:
   steps:
-    - mongoid5-rails-config-yml:
+    - neveragny/mongoid5-rails-config-yml:
         db_name: my_app_test
 ```
 
