@@ -12,7 +12,7 @@ services:
   - mongo
 build:
   steps:
-    - rails-mongoid5-yml:
+    - mongoid5-rails-config-yml:
         db_name: my_app_test
 ```
 
