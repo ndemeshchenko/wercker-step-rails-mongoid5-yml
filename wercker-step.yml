@@ -1,5 +1,5 @@
 name: rails-mongoid-yml
-version: 1.0.3
+version: 1.0.0
 description: Writes mongoid.yml according to mongo service
 keywords:
   - mongoid
