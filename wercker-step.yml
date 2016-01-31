@@ -1,11 +1,12 @@
-name: rails-mongoid-yml
+name: mongoid5-rails-config-yml
 version: 1.0.0
-description: Writes mongoid.yml according to mongo service
+description: Generate mongoid.yml according to mongodb service
 keywords:
   - mongoid
   - mongoid.yml
   - mongodb
   - mongo
+  - rails
 properties:
   db_name:
     type: string
