@@ -39,6 +39,8 @@ test:
           mode: :primary
         max_retries: 1
         retry_interval: 0
+  options:
+      raise_not_found_error: false
 EOF
 }
 
