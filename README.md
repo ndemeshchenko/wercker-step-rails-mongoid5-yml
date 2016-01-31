@@ -2,7 +2,7 @@
 
 This [wercker step](http://devcenter.wercker.com/docs/steps) generates a `config/mongoid.yml` rails project using [mongoid](http://mongoid.org).
 
-[![wercker status](https://app.wercker.com/status/0f970597f3b22cab6008a3ab598114e3/s/master "wercker status")](https://app.wercker.com/project/bykey/0f970597f3b22cab6008a3ab598114e3)
+[![wercker status](https://app.wercker.com/status/a13a02a4498626818945213803550089/s "wercker status")](https://app.wercker.com/project/bykey/a13a02a4498626818945213803550089)
 
 ## Example
 
