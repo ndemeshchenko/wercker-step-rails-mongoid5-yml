@@ -1,0 +1,12 @@
+name: rails-mongoid-yml
+version: 1.0.3
+description: Writes mongoid.yml according to mongo service
+keywords:
+  - mongoid
+  - mongoid.yml
+  - mongodb
+  - mongo
+properties:
+  db_name:
+    type: string
+    required: false
